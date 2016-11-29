@@ -1,0 +1,5 @@
+NumberIntent give me a number between {FirstNumber} and {SecondNumber}
+NumberIntent tell me a number between {FirstNumber} and {SecondNumber}
+NumberIntent get a number between {FirstNumber} and {SecondNumber}
+NumberIntent i want a number between {FirstNumber} and {SecondNumber}
+NumberIntent i'd like a number between {FirstNumber} and {SecondNumber}
