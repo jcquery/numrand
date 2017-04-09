@@ -6,7 +6,7 @@ var APP_ID = 'amzn1.ask.skill.ad1d9289-2233-4bd7-a2aa-6a2c7629ea83';
 exports.handler = function(event, context, callback) {
   var alexa = Alexa.handler(event, context);
 
-  alexa.APP_ID = APP_ID;
+  alexa.appId = APP_ID;
   alexa.registerHandlers(handlers);
   alexa.execute();
 };
